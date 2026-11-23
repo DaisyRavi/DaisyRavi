@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**DaisyRavi/DaisyRavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Daisy
 
-Here are some ideas to get you started:
+🎓 Student | Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+### 👩‍💻 About Me
+- 🌱 Currently learning Java, SQL and Cloud Computing.
+- 💻 Interested in Software Development and AI Cloud Engineering.
+- 🚀 Improving my problem-solving and programming skills.
+- 🎯 Preparing for technical interviews and placement opportunities.
+- 📚 Always curious to learn new technologies and build projects.
+
+### 🛠️ Technical Skills
+- **Programming:** Java
+- **Database:** SQL
+- **Cloud:** Cloud Computing (Learning)
+- **Other Skills:** Problem Solving, Aptitude
+
+### 📌 My Goals
+- Strengthen my programming fundamentals.
+- Build real-world projects.
+- Improve my technical and problem-solving skills.
+- Become a skilled software professional.
+
+### 📫 Connect With Me
+- GitHub: [My GitHub Profile](https://github.com/DaisyRavi)
+
+---
+⭐ Thanks for visiting my profile!
